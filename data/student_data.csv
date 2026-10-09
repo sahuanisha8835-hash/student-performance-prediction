@@ -1,0 +1,16 @@
+study_hours,attendance,previous_score,sleep_hours,internet_access,parental_support,extracurricular,result
+5,85,72,7,Yes,High,Yes,Pass
+2,60,45,6,Yes,Low,No,Fail
+6,92,80,8,Yes,High,Yes,Pass
+3,70,55,6,Yes,Medium,No,Pass
+1,45,35,5,No,Low,No,Fail
+7,95,88,8,Yes,High,Yes,Pass
+4,78,65,7,Yes,Medium,Yes,Pass
+2,55,40,6,No,Low,No,Fail
+5,82,70,7,Yes,High,No,Pass
+1,50,38,5,No,Low,No,Fail
+8,97,92,8,Yes,High,Yes,Pass
+3,65,50,6,Yes,Medium,No,Fail
+6,88,76,7,Yes,High,Yes,Pass
+2,58,42,6,No,Low,No,Fail
+4,75,62,7,Yes,Medium,Yes,Pass
